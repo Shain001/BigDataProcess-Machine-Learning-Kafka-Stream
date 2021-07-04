@@ -31,3 +31,5 @@ each activity data, except “attack” or “type”.</p>
 
 #### Architecture
 
+![arch.PNG](https://github.com/Shain001/BigDataProcess-Machine-Learning-Kafka-Stream/blob/main/ML%20Model%20Training%20for%20Hacking%20Activity%20Detection/arch.PNG?raw=true)
+
